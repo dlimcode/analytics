@@ -306,11 +306,6 @@ When extending the dashboard:
 
 - Follow existing component patterns
 - Maintain unidirectional data flow
-- Use TypeScript for type safety
 - Keep components focused on single responsibilities
 - Document props and key functions
 - Implement proper error handling
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
